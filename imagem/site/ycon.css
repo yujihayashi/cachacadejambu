@@ -1,0 +1,7 @@
+.ycon{ background:url("ycon.png") top left no-repeat; }
+.ycon-leaf-left{ width:128px; height:110px; background-position:-1px -1px; }
+.ycon-leaf-right{ width:128px; height:110px; background-position:-1px -112px; }
+.ycon-assinatura-leo{ width:122px; height:57px; background-position:-1px -223px; }
+.ycon-facebook{ width:42px; height:42px; background-position:-1px -281px; }
+.ycon-twitter{ width:42px; height:42px; background-position:-44px -281px; }
+

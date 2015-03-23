@@ -31,7 +31,7 @@
     "@font-size-h6": "ceil((@font-size-base * 0.85))",
     "@line-height-base": "1.428571429",
     "@line-height-computed": "floor((@font-size-base * @line-height-base))",
-    "@headings-font-family": "inherit",
+    "@headings-font-family": "yanone_kaffeesatzbold, Arial, sans-serif",
     "@headings-font-weight": "500",
     "@headings-line-height": "1.1",
     "@headings-color": "inherit",
@@ -94,6 +94,7 @@
     "@input-height-base": "35px",
     "@input-height-large": "(ceil(@font-size-large * @line-height-large) + (@padding-large-vertical * 2) + 2)",
     "@input-height-small": "(floor(@font-size-small * @line-height-small) + (@padding-small-vertical * 2) + 2)",
+    "@form-group-margin-bottom": "15px",
     "@legend-color": "@gray-dark",
     "@legend-border-color": "#e5e5e5",
     "@input-group-addon-bg": "@gray-lighter",
@@ -425,5 +426,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=04f340246a12c0c7e41d"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=0738f529655a70b379ad"
 }
